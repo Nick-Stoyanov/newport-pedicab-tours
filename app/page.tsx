@@ -101,13 +101,13 @@ export default function Home() {
                     Your Personal Newport Tour Guide
                   </p>
                   <p className="mb-4 text-lg leading-relaxed text-slate-700">
-                    Born and raised in Newport, Lydia knows every cobblestone street, every historic mansion, and every hidden waterfront view. With years of experience as a pedicab tour guide, she brings the city's rich history to life with engaging stories and insider knowledge.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                   </p>
                   <p className="mb-4 text-lg leading-relaxed text-slate-700">
-                    Whether you're interested in Gilded Age architecture, local legends, or the best photo spots, Lydia creates a personalized experience tailored to your interests. Her friendly, enthusiastic approach makes every tour memorable.
+                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                   </p>
                   <p className="text-lg leading-relaxed text-slate-700">
-                    Sit back, relax, and let Lydia pedal you through Newport's most stunning locations—from the grand Marble House to the scenic Ocean Drive, charming King's Park, and beyond.
+                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
                   </p>
                 </div>
               </div>
